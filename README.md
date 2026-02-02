@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋, I'm Gowtham Kumar
 
-<!--
-**Gowthamkumar15/Gowthamkumar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Business Systems Student | 💻 Tech Builder | 🚀 Business + Code Mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me :
+
+🎯 Focused on building software that solves real-world and business problems  
+🔭 I am a Computer Science & Business Systems student passionate about building software that solves real-world and business problems.  
+
+---
+
+### 🌐 Connect with Me :
+
+💼 LinkedIn: linkedin.com/in/gowthamkumarj  
+🧑‍💻 GitHub: github.com/Gowthamkumar15  
+
+---
+
+### 🛠️ Skills & Tools :
+
+🚀 **Programming Languages**  
+• Java • JavaScript • SQL • C • C++* • React
+
+🌐 **Development**  
+HTML • CSS • Bootstrap • Android • Web Apps 
+
+☁️ **Tech & Tools**  
+Git • GitHub • Cloud Basics • Databases  
+
+---
+
+⭐ Always building. Always learning. Always improving.
