@@ -52,4 +52,4 @@
 ---
 
 
-⭐ Always building. Always learning. Always improving.
+⭐ Live, Learn, Laugh 💙
