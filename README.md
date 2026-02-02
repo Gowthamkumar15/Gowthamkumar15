@@ -19,8 +19,7 @@
 
 ### 🌐 Connect with Me :
 
-- 💼 [linkedin.com/in/gowthamkumarj](https://linkedin.com/in/gowthamkumarj) 
-- 🧑‍💻 GitHub: **github.com/Gowthamkumar15** 
+- 💼 Linkdin: [linkedin.com/in/gowthamkumarj](https://linkedin.com/in/gowthamkumarj) 
 - 📫 How to reach me: **gjagarlamudi9@gmail.com**
 
 ---
