@@ -1,6 +1,12 @@
 ## Hi there 👋, I'm Gowtham Kumar
 
 🎓 Computer Science & Business Systems Student | 💻 Tech Builder | 🚀 Business + Code Mindset
+<p align="Right">
+  <a href="https://www.linkedin.com/in/gowthamkumarj">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  
+</p>
 
 ---
 
