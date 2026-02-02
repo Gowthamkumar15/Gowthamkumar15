@@ -19,8 +19,8 @@
 
 ### 🌐 Connect with Me :
 
-- 💼 Linkdin: [linkedin.com/in/gowthamkumarj](https://linkedin.com/in/gowthamkumarj) 
-- 📫 How to reach me: **gjagarlamudi9@gmail.com**
+- 💼 Linkdin: [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/gowthamkumarj) 
+- 📫 Email: [![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:gjagarlamudi9@email.com)
 
 ---
 
