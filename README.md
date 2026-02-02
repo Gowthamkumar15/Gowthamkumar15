@@ -46,4 +46,13 @@
 
 ---
 
+## 📈 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamkumar15&theme=dark&show_icons=true&hide=issues,contribs)
+
+![Gowtham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowthamkumar15&bg_color=050505&color=65d1e6&line=a966a4&point=e543c7&area=true&hide_border=true)
+
+---
+
+
 ⭐ Always building. Always learning. Always improving.
