@@ -38,6 +38,7 @@
 <img src="https://img.icons8.com/color/48/web.png"/>
 
 ☁️ **Tech & Tools**  
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/ios-glyphs/48/github.png"/> 
 <img src="https://img.icons8.com/color/48/cloud.png"/> 
 
