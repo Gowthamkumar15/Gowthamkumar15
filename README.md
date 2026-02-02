@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Status :
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamkumar15&theme=dark&show_icons=true&hide=issues,contribs)
 
