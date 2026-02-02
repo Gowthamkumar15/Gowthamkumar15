@@ -19,8 +19,8 @@
 
 ### 🌐 Connect with Me :
 
-💼 LinkedIn: linkedin.com/in/gowthamkumarj  
-🧑‍💻 GitHub: github.com/Gowthamkumar15  
+💼 LinkedIn: **linkedin.com/in/gowthamkumarj**  
+🧑‍💻 GitHub: **github.com/Gowthamkumar15** 
 
 ---
 
