@@ -19,7 +19,10 @@
 
 ### 🌐 Connect with Me :
 
-- 💼 Linkdin: [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/gowthamkumarj) 
+
+- 💼 Linkdin: [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/gowthamkumarj)
+
+
 - 📫 Email: [![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:gjagarlamudi9@email.com)
 
 ---
