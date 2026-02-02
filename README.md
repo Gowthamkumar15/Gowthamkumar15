@@ -38,14 +38,11 @@
 <img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
 <img src="https://img.icons8.com/fluency/48/css3.png"/> 
 <img src="https://img.icons8.com/color/48/bootstrap.png"/> 
-<img src="https://img.icons8.com/color/48/android-os.png"/> 
 <img src="https://img.icons8.com/color/48/web.png"/>
 
 ☁️ **Tech & Tools**  
-<img src="https://img.icons8.com/color/48/git.png"/> 
 <img src="https://img.icons8.com/ios-glyphs/48/github.png"/> 
 <img src="https://img.icons8.com/color/48/cloud.png"/> 
-<img src="https://img.icons8.com/color/48/database.png"/>
 
 ---
 
