@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gowtham Kumar
+## Hi there 👋, I'm Jagarlamudi Gowtham Kumar
 
 🎓 Computer Science & Business Systems Student | 💻 Tech Builder | 🚀 Business + Code Mindset
 
