@@ -27,13 +27,25 @@
 ### 🛠️ Skills & Tools :
 
 🚀 **Programming Languages**  
-• Java • JavaScript • SQL • C • C++* • React
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> 
+<img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"/> 
+<img src="https://img.icons8.com/color/48/c-programming.png"/> 
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> 
+<img src="https://img.icons8.com/officel/48/react.png"/>
 
 🌐 **Development**  
-HTML • CSS • Bootstrap • Android • Web Apps 
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
+<img src="https://img.icons8.com/fluency/48/css3.png"/> 
+<img src="https://img.icons8.com/color/48/bootstrap.png"/> 
+<img src="https://img.icons8.com/color/48/android-os.png"/> 
+<img src="https://img.icons8.com/color/48/web.png"/>
 
 ☁️ **Tech & Tools**  
-Git • GitHub • Cloud Basics • Databases  
+<img src="https://img.icons8.com/color/48/git.png"/> 
+<img src="https://img.icons8.com/ios-glyphs/48/github.png"/> 
+<img src="https://img.icons8.com/color/48/cloud.png"/> 
+<img src="https://img.icons8.com/color/48/database.png"/>
 
 ---
 
