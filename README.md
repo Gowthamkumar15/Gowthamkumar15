@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with Me :
 
-- 💼 LinkedIn: **linkedin.com/in/gowthamkumarj**  
+- 💼 [linkedin.com/in/gowthamkumarj](https://linkedin.com/in/gowthamkumarj) 
 - 🧑‍💻 GitHub: **github.com/Gowthamkumar15** 
 - 📫 How to reach me: **gjagarlamudi9@gmail.com**
 
